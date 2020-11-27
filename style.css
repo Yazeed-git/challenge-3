@@ -64,7 +64,7 @@ h4{
     font-size: 1rem;
 }
 h1{
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 h1,h4{
     font-weight: var(--medium);
@@ -96,6 +96,7 @@ strong{
 .headline{
     line-height: 1.2;
     margin-bottom: 15px;
+    border: 2px solid yellow;
 }
 .sub-headline{
     line-height: 1.6;
